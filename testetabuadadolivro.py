@@ -18,7 +18,7 @@ Menu
             print("Precisa digitar de 1 a 5")
             continue
         elif opção >= 1 and opção < 5:
-            n = int(input("Tabuada de:"))
+            n = int(input("Tabuada de: "))
             x = 1
             while x <= 10:
                 if opção == 1:
